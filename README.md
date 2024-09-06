@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Swift / SwiftUI
+🌱 I’m currently learning Swift / SwiftUI <br/>
 📪 How to reach me: github.darling244@passinbox.com
 
 
