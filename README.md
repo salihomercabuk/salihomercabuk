@@ -1,5 +1,6 @@
 # 💫 About Me:
 🌱 I’m currently learning Swift / SwiftUI
+📪 How to reach me: github.darling244@passinbox.com
 
 
 ## 🌐 Socials:
